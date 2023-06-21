@@ -1,2 +1,2 @@
-package demo;public class demo {
+package demo;public class Demo {
 }
