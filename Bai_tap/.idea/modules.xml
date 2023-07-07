@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Bai_tap.iml" filepath="$PROJECT_DIR$/.idea/Bai_tap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Giai_Thuat/Giai_Thuat.iml" filepath="$PROJECT_DIR$/Giai_Thuat/Giai_Thuat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tren_lop/QuanlySinhVien/QuanlySinhVien.iml" filepath="$PROJECT_DIR$/Tren_lop/QuanlySinhVien/QuanlySinhVien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tren_lop/Quanlyhocsinh/Quanlyhocsinh.iml" filepath="$PROJECT_DIR$/Tren_lop/Quanlyhocsinh/Quanlyhocsinh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thu_7/Thu_7.iml" filepath="$PROJECT_DIR$/Thu_7/Thu_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tren_lop/Tren_lop.iml" filepath="$PROJECT_DIR$/Tren_lop/Tren_lop.iml" />
+    </modules>
+  </component>
+</project>
